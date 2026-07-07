@@ -1,0 +1,4 @@
+interface:
+  display_name: "Exotic Thinking"
+  short_description: "Apply nonstandard reasoning lenses without treating lens names as evidence."
+  default_prompt: "Use Exotic Thinking to choose one to three structural lenses, produce concrete observations, and follow any decision-changing finding with ordinary verification."
